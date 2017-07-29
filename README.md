@@ -1,2 +1,2 @@
-# new-burger
-Full Stack burger app on node/express, ORM for back-end , handlbars for front-end
+# eat-burger
+ORM + MVC app for selecting burgers - also node.js, express.js, handlebars
